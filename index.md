@@ -5,4 +5,6 @@ Hawevau ist eine Kunstfigur, die nicht in der Realität existiert. Dafür ist si
 * Rührei
 * Rhabarberkuchen
 * Spinat
+> There's no business
+> like slow business
 
